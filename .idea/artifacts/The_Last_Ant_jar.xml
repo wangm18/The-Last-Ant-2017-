@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="The_Last_Ant:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/The_Last_Ant_jar</output-path>
+    <root id="archive" name="The_Last_Ant.jar">
+      <element id="module-output" name="The_Last_Ant" />
+    </root>
+  </artifact>
+</component>
